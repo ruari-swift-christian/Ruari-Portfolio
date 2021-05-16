@@ -8,5 +8,17 @@ runs scored
 
 
 
-# [PROJECT 2: COVID-19 Testing, Vaccination, Cases, Cases by Age Group, Deaths Stats for Eech US State and a Exploratory ANalysis](
+# [PROJECT 2: COVID-19 Testing, Vaccination, Cases, Cases by Age Group, Deaths Stats for Eech US State and a Exploratory ANalysis](https://github.com/ruari-swift-christian/covid-US-states-project/new/main?readme=1)
+## PROJECT Goals: F
 
+#First Use Linear Regression To Find A Linear Relationship between Total Population and Cases and Total Population.
+#Secondly, Do a Principal Component Analysis of each variable to see the importance of each one and the distribution of Variance
+#Thirdly, Test out Clustering methods via Kmeans as well as a Principal Component bar graph for each component.
+
+#DATA VISUALIZATION:
+
+#Create Scatterplot Matrix to see aboutth e relationship between 6 variables: Total Covid-19 Tests, Total Covid-19 Cases, total people vaccinated in the entire State
+# Continued.. Total State Population, Total negative tests, total Positive Tests.
+#Next a Correlation Plot for all 6 variables: there was a linear relationship and correlation between cases, total vaccinated, and total state population
+#make a added variable Plot
+#create a Animated KMeans Plot
